@@ -1,5 +1,5 @@
 <p align="center">
-  <img [src="assets/AJAX.png](https://telegra.ph/file/ebf577a21658bc6079797.jpg)" alt="Ajax Techz">
+  <img [src="assets/AJAX.png](https://telegra.ph/file/ebf577a21658bc6079797.jpg)" alt="Sad Nobita">
 </p>
 <h1 align="center">
   <b> 𝖲𝖠𝖣 𝖭𝖮𝖡𝖨𝖳𝖠 𝖨𝖬𝖣𝖡 𝖡𝖮𝖳 𝚅3</b>
