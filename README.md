@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/AJAX.png" alt="Ajax Techz">
+  <img [src="assets/AJAX.png](https://telegra.ph/file/ebf577a21658bc6079797.jpg)" alt="Ajax Techz">
 </p>
 <h1 align="center">
   <b>ᗩᒍᗩ᙭ 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
